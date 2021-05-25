@@ -7,7 +7,8 @@ Have you ever wanted to check the traffic on ALL your repositiories, but were to
 1. Set up python on your Linux.  
 
 2. Clone this repo:  
-`git clone https://github.com/sriramcu/check_traffic/`
+`git clone https://github.com/sriramcu/check_traffic/`  
+
 `cd check_traffic/`  
 
 3. Edit the file username.txt to enter your git username.  
