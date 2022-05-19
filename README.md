@@ -16,4 +16,4 @@ Have you ever wanted to check the traffic on ALL your repositiories, but were to
 4. Run the program. Note that only public repos will be opened.  
 `python3 check_traffic.py`  
 
-5. Profit!!
+5. Profit!
